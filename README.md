@@ -1,11 +1,11 @@
 👋 Hey!
 
- 👩 ABOUT ME
+ <!---👩 ABOUT ME
  
  💻 software Engineer currently learning about Ethereum and smart contract developement
  
  ✨I love reading , enjoy music, swimming and playing basketball. I'm also a big dog lover🐶 
-
+--->
 
 Check out my GitHub repository:
 <!---
